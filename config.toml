@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "https://boneskull.com/"
+baseurl = "https://boneskull.com/hugo-test/"
 # HTML Language Code Reference, such as en, zh-cn
 languageCode = "en-us"
 title = "boneskull dot com"
