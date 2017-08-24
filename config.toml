@@ -1,12 +1,13 @@
 # Site settings
 baseurl = "https://boneskull.com/"
 # HTML Language Code Reference, such as en, zh-cn
-languageCode = "en"
+languageCode = "en-us"
 title = "boneskull dot com"
-theme = "hugo-theme-cactus-plus"
+theme = "ananke"
 # Enter your tracking code to enable Google Analytics
 googleAnalytics = "your_google_analytics_code"
 hasCJKLanguage = true
+publishdir = "docs"
 
 [params]
 	name = "Hugo"
