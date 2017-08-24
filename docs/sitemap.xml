@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://boneskull.com/hugo-test/categories/</loc>
+    <loc>https://boneskull.com/hugo-test/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://boneskull.com/hugo-test/tags/</loc>
+    <loc>https://boneskull.com/hugo-test/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://boneskull.com/hugo-test/</loc>
+    <loc>https://boneskull.com/hugo-test/</loc>
     <priority>0</priority>
   </url>
   
